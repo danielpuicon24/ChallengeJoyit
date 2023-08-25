@@ -2,14 +2,14 @@
 
 
 #  Características Principales
-Pantalla de inicio de sesión donde los usuarios pueden ingresar su correo electrónico.
-Validación de correo electrónico y dirección a la pantalla de contraseña o registro según la validez.
-Consumo de API para inicio de sesión y registro utilizando Retrofit.
-Arquitectura MVVM y Clean Architecture para una estructura de código organizada y mantenible.
-Uso de inyección de dependencias para gestionar las dependencias de manera eficiente.
-Utilización de Jetpack Compose para crear interfaces de usuario declarativas y modernas.
-Integración de Coroutines para manejar operaciones asíncronas de manera concisa.
-Pantalla de detalle de usuario que muestra información del usuario obtenida de la API.
+1. Pantalla de inicio de sesión donde los usuarios pueden ingresar su correo electrónico.
+2. Validación de correo electrónico y dirección a la pantalla de contraseña o registro según la validez.
+3. Consumo de API para inicio de sesión y registro utilizando Retrofit.
+4. Arquitectura MVVM y Clean Architecture para una estructura de código organizada y mantenible.
+5. Uso de inyección de dependencias para gestionar las dependencias de manera eficiente.
+6. Utilización de Jetpack Compose para crear interfaces de usuario declarativas y modernas.
+7. Integración de Coroutines para manejar operaciones asíncronas de manera concisa.
+8. Pantalla de detalle de usuario que muestra información del usuario obtenida de la API.
 
 #  Cómo Probar la Aplicación
 1. Clona este repositorio.
